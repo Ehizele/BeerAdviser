@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BeerAdviser</string>
+    //this is for the button and textview
+    <string name="find_beer">find_beer!</string>
+    <string name= "brands">No beers selected</string>
+    //this is for the spinner
+    <string-array name="beer_colors">
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>
+
+</resources>
